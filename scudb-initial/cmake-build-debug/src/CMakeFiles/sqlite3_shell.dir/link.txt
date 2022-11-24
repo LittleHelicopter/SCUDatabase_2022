@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/sqlite3_shell.dir/sqlite/shell.c.o  -o ../bin/sqlite3  -Wl,-rpath,/mnt/e/learn/数据库/数据库_作业/SCUDatabase-2022/Homework2/scudb-initial/cmake-build-debug/lib ../lib/libsqlite3.so -lpthread -ldl 
